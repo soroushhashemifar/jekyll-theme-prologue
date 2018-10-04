@@ -2,7 +2,6 @@
 title: Third Post
 author: Chris
 layout: post
-publish: false
 icon: fa-lightbulb-o
 ---
 See the icon?
