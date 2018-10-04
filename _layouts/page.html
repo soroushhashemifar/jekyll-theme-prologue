@@ -4,6 +4,7 @@ layout: default
 {%- include header.html -%}
 
 <!-- Main -->
+{%- if page.publish -%}
 <div id="main">
 	<!-- Page -->
 	<article class="shade-two">
@@ -16,3 +17,4 @@ layout: default
 	  </div>
 	</article>
 </div>
+{%- endif -%}
