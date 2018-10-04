@@ -1,6 +1,7 @@
 ---
 title: Second Post
 author: Chris
+published: false
 layout: post
 ---
 
