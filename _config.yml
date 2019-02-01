@@ -31,8 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Soroush Hashemi Far
-subtitle: Software Engineer, 
-          AI Researcher
+subtitle: Software Engineering Student, Machine Learning Researcher
 description: >- # this means to ignore newlines until "baseurl:"
   
 author: Soroush Hashemi Far
@@ -45,10 +44,10 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url: https://github.com/soroushhashemifar
+github_url: https://github.com/soroushhashemifar/
 googleplus_url: 
-instagram_url: 
-linkedin_url: https://linkedin.com/in/soroushhashemifar
+instagram_url: https://www.instagram.com/soroushhashemifar/
+linkedin_url: https://linkedin.com/in/soroushhashemifar/
 pinterest_url:
 slack_url:
 twitter_url:
