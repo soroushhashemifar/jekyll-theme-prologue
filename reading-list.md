@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: A list of interesting computer science papers & books
+title: Papers & Books
+subtitle: Papers & Books
 layout: "page"
 icon: fa-book
 order: 3
