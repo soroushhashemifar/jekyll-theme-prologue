@@ -1,7 +1,7 @@
 ---
 title: Papers & Books
 subtitle: Papers & Books
-layout: #"page"
+layout: "page"
 icon: fa-book
 order: 3
 ---
