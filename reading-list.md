@@ -1,7 +1,7 @@
 ---
 title: Reading List
-subtitle: a list of books I read
-layout: default
+subtitle: list of books and papers I have read
+layout: page
 icon: fa-book
 order: 3
 ---
