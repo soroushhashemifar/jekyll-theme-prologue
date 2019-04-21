@@ -2,8 +2,7 @@
 title: Favorites
 layout: "page"
 icon: fa-book
-hide: true
 order: 4
 ---
 
-movies / musics
+Here you can find my favorite movies and musics that I found interesting. Hope you enjoy ;)
