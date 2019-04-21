@@ -2,6 +2,7 @@
 title: Favorites
 layout: "page"
 icon: fa-book
+published: true
 order: 4
 ---
 
