@@ -3,7 +3,7 @@ title: Favorites
 layout: "page"
 icon: fa-book
 hide: true
-order: 5
+order: 4
 ---
 
 movies / musics
