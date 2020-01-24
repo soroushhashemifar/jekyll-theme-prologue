@@ -3,7 +3,7 @@ title: Reading List
 subtitle: list of books and papers I have read
 layout: page
 icon: fa-book
-published: true
+published: false
 order: 3
 ---
 
