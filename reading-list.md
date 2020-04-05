@@ -1,6 +1,6 @@
 ---
 title: Reading List
-subtitle: list of books and papers I have read
+subtitle: Books & Papers
 layout: page
 icon: fa-book
 published: true
