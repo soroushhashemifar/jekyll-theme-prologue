@@ -11,5 +11,5 @@ Here you can find some cool papers and books which I've found them interesting. 
 
 ## Books:
 1. [Deep Learning with Python, Francois Chollet](https://www.manning.com/books/deep-learning-with-python)
-2. [Deep Learning for Computer Vision with Python, Dr. Adrian Rosebrock](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
-3. [Machine Learning: a Probabilistic Perspective, by Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/)
+2. [Deep Learning for Computer Vision with Python, Adrian Rosebrock](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
+3. [Machine Learning: a Probabilistic Perspective, Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/)
