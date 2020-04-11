@@ -7,7 +7,7 @@ published: true
 order: 3
 ---
 
-Here you can find some cool papers and books which I've found them interesting. Hope they be useful for others.
+Here you can find some cool papers and books which I've found them interesting. Hope they be useful for others. This list is updating regularly so if you know any good machine learning book, please send me the name to add it to the list below.
 
 ## Books:
 * [Deep Learning with Python, Francois Chollet](https://www.manning.com/books/deep-learning-with-python)
