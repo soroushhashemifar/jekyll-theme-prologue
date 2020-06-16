@@ -35,7 +35,7 @@ subtitle: Computer Engineering Student, Machine Learning & Cloud Computing Resea
 description: >- # this means to ignore newlines until "baseurl:"
   
 author: Soroush Hashemi Far
-email: soroush.hashemi76@gmail.com
+email: hashemifar.soroush@gmail.com
 avatar: assets/images/Nature-Sunrise-Wallpapers-1080p.jpeg
 
 # You'll want to customize url and baseurl for your own site:
@@ -46,7 +46,7 @@ url: "" # the base hostname & protocol for your site
 facebook_url: https://www.facebook.com/soroush.hashemifar.7/
 github_url: https://github.com/soroushhashemifar/
 googleplus_url: 
-instagram_url:
+instagram_url: 
 linkedin_url: https://linkedin.com/in/soroushhashemifar/
 pinterest_url:
 slack_url:
