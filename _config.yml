@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Soroush Hashemi Far
-subtitle: Computer Engineering Student, Machine Learning & Cloud Computing Researcher
+title: Soroush Hashemifar
+subtitle: Computer Engineer, Machine Learning & Cloud Computing Researcher
 description: >- # this means to ignore newlines until "baseurl:"
   
 author: Soroush Hashemi Far
@@ -46,7 +46,7 @@ url: "" # the base hostname & protocol for your site
 facebook_url: https://www.facebook.com/soroush.hashemifar.7/
 github_url: https://github.com/soroushhashemifar/
 googleplus_url: 
-instagram_url: 
+instagram_url: https://www.instagram.com/soroushhashemifar/
 linkedin_url: https://linkedin.com/in/soroushhashemifar/
 pinterest_url:
 slack_url:
