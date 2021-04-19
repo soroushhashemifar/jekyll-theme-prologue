@@ -31,10 +31,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Soroush Hashemifar
-subtitle: Computer Engineer, Machine Learning & Cloud Computing Researcher
+subtitle: Deep Learning Engineer & Cloud Computing Researcher
 description: >- # this means to ignore newlines until "baseurl:"
   
-author: Soroush Hashemi Far
+author: Soroush Hashemifar
 email: hashemifar.soroush@gmail.com
 avatar: assets/images/Nature-Sunrise-Wallpapers-1080p.jpeg
 
